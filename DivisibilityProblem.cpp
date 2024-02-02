@@ -8,18 +8,18 @@ int main()
     int a, b;
     int tests;
     int parameter;
-    vector<int> values;
     cin>>tests;
+    int values[tests];
 
     for(int i =0; i<tests; i++){
         cin >>a>>b;
-        parameter =0;
-        while(a%b!=0){
-          a = a - parameter;
-          parameter++;
-          a+=parameter;
+        if(a%b==0){
+            values[i] = 0;
         }
-        values.push_back(parameter);
+        else{
+            parameter = b - a%b;
+            values[i]=parameter;
+        }
     }
 
     for(auto it : values){
