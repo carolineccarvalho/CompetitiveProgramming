@@ -11,3 +11,5 @@ QUERM - Quermesse: https://br.spoj.com/problems/QUERM/
 MINHOCA - Campo de Minhocas: https://br.spoj.com/problems/MINHOCA/
 
 Fast Prime: https://www.beecrowd.com.br/judge/pt/problems/view/1221?origem=1
+
+Dead Pixel: https://codeforces.com/contest/1315/problem/A
