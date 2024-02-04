@@ -9,3 +9,5 @@ A. Divisibility Problem: https://codeforces.com/problemset/problem/1328/A
 QUERM - Quermesse: https://br.spoj.com/problems/QUERM/
 
 MINHOCA - Campo de Minhocas: https://br.spoj.com/problems/MINHOCA/
+
+Fast Prime: https://www.beecrowd.com.br/judge/pt/problems/view/1221?origem=1
