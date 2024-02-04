@@ -15,3 +15,5 @@ Fast Prime: https://www.beecrowd.com.br/judge/pt/problems/view/1221?origem=1
 Dead Pixel: https://codeforces.com/contest/1315/problem/A
 
 SwapSort: https://codeforces.com/contest/489/problem/A
+
+Multiplication Dilemma: https://codeforces.com/gym/101972/problem/A
