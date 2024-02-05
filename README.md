@@ -17,3 +17,5 @@ Dead Pixel: https://codeforces.com/contest/1315/problem/A
 SwapSort: https://codeforces.com/contest/489/problem/A
 
 Multiplication Dilemma: https://codeforces.com/gym/101972/problem/A
+
+Add Odd or Subtract Even: https://codeforces.com/contest/1311/problem/A
