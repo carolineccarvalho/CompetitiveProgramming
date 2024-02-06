@@ -38,3 +38,5 @@ Business Trip: https://codeforces.com/contest/149/problem/A
 PALAVRMG - Palavras Ordenadas: https://br.spoj.com/problems/PALAVRMG/
 
 BRACELMG - Braceletes Mágicos: https://br.spoj.com/problems/BRACELMG/
+
+Choose Two Numbers: https://codeforces.com/problemset/problem/1206/A
