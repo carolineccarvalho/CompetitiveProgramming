@@ -27,5 +27,5 @@ CME: https://codeforces.com/contest/1241/problem/A
 
 Bad prices: https://codeforces.com/contest/1213/problem/B
 
-<title>STL</title>.
+<h1 align="center"> STL: </h1>
 Dijkstra: https://www.beecrowd.com.br/judge/pt/problems/view/2653
