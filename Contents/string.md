@@ -1,1 +1,1 @@
-<h1><align:"center" Getline><h1>
+<h1><Getline><h1>
