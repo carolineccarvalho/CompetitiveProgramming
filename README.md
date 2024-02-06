@@ -5,7 +5,7 @@ I will put every single question that i do, so you can access the link and see t
 
 # Questions
 
-<title>Normal:</title>.
+<h1 align="center"> Normal: </h1>
 
 Divisibility Problem: https://codeforces.com/problemset/problem/1328/A
 
