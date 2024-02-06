@@ -30,4 +30,5 @@ Bad prices: https://codeforces.com/contest/1213/problem/B
 <h1 align="center"> STL: </h1>
 
 Dijkstra: https://www.beecrowd.com.br/judge/pt/problems/view/2653
+
 Three Strings: https://codeforces.com/problemset/problem/1301/A
