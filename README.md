@@ -21,3 +21,5 @@ Multiplication Dilemma: https://codeforces.com/gym/101972/problem/A
 Add Odd or Subtract Even: https://codeforces.com/contest/1311/problem/A
 
 CME: https://codeforces.com/contest/1241/problem/A
+
+Bad prices: https://codeforces.com/contest/1213/problem/B
