@@ -1,5 +1,5 @@
 # STL
-A set of tools (template) available in c++ programming platforms, it's important for you code more quickly, efficiently and in generic way.
+A set of tools (template) available in c++ programming platforms, it's important for a code more quickly, efficiently and in generic way.
 
 # Why quickly?
 Because there are already implementation of those data structures that you could need to. For example: ordering some queue.
