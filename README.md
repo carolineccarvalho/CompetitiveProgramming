@@ -4,6 +4,7 @@ This repository shows all codes about Competitive Programming that I've ever don
 I will put every single question that i do, so you can access the link and see the resolution. I hope this can be useful to you.
 
 # Questions
+Normal:
 Divisibility Problem: https://codeforces.com/problemset/problem/1328/A
 
 QUERM - Quermesse: https://br.spoj.com/problems/QUERM/
@@ -23,3 +24,6 @@ Add Odd or Subtract Even: https://codeforces.com/contest/1311/problem/A
 CME: https://codeforces.com/contest/1241/problem/A
 
 Bad prices: https://codeforces.com/contest/1213/problem/B
+
+STL:
+Dijkstra: https://www.beecrowd.com.br/judge/pt/problems/view/2653
