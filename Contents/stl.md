@@ -28,7 +28,7 @@ Functors: they are objects that can be treated as though they are a function or 
 
 example: 
 
-// A C++ program uses transform() in STL to add 1 to all elements of arr[]
+A C++ program uses transform() in STL to add 1 to all elements of arr[]
 
     int arr[] = {1, 2, 3, 4, 5};
     
