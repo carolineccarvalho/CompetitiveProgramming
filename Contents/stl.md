@@ -1,5 +1,6 @@
 # STL
 A set of tools (template) available in c++ programming platforms, it's important for a code more quickly, efficiently and in generic way.
+To include all of them, you can use the include file <bits/stdc++.h>
 
 # Why quickly?
 Because there are already implementation of those data structures that you could need to. For example: ordering some queue.
@@ -45,3 +46,7 @@ A C++ program uses transform() in STL to add 1 to all elements of arr[]
   
     return 0;
 
+# Sorts
+Vector: sort(nameVector.begin(), nameVector.end());
+Vector: sort(nameVector.begin(), nameVector.end(), greater()); -> Decrease the values between the init and the end
+Lista: myList.sort()
