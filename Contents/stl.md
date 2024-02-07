@@ -23,8 +23,11 @@ T area (T width, T height){
 
 # What are the components of stl?
 Containers: data structures that allow you to store and organize multiple elements of the same or different types. These containers offer various functionalities, such as dynamic memory management, automatic resizing, efficient insertion, deletion, and retrieval of elements. 
+
 Iterators: an iterator is an object (like a pointer) that points to an element inside the container. We can use iterators to move through the contents of the container. They can be visualised as something similar to a pointer pointing to some location and we can access content at that particular location using them.
+
 Algorithms: they are operations that act on the containers via the iterator concept. 
+
 Functors: they are objects that can be treated as though they are a function or function pointer.
 
 example: 
@@ -48,5 +51,7 @@ A C++ program uses transform() in STL to add 1 to all elements of arr[]
 
 # Sorts
 Vector: sort(nameVector.begin(), nameVector.end());
+
 Vector: sort(nameVector.begin(), nameVector.end(), greater()); -> Decrease the values between the init and the end
+
 Lista: myList.sort()
