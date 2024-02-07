@@ -11,3 +11,7 @@ Set, map, multimap and multiset (implemented using Balanced Binary tree).
 # Which are unordered?
 Unordered_set (implemented using Hash Table).
 
+# SET
+nameSet.count(int a): it is a way that you can see if a is in nameSet
+
+nameSet.count(int a): return the quantity of elements
