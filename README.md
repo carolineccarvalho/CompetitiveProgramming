@@ -42,3 +42,6 @@ BRACELMG - Braceletes Mágicos: https://br.spoj.com/problems/BRACELMG/
 Choose Two Numbers: https://codeforces.com/problemset/problem/1206/A
 
 Cards: https://codeforces.com/problemset/problem/1220/A
+
+Skier: https://codeforces.com/contest/1351/problem/C
+
