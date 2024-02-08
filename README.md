@@ -45,3 +45,4 @@ Cards: https://codeforces.com/problemset/problem/1220/A
 
 Skier: https://codeforces.com/contest/1351/problem/C
 
+Botas trocadas: https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/botas/
