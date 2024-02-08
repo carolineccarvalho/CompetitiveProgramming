@@ -49,3 +49,5 @@ Skier: https://codeforces.com/contest/1351/problem/C
 Botas trocadas: https://olimpiada.ic.unicamp.br/pratique/p2/2017/f1/botas/
 
 Little Artem: https://codeforces.com/contest/1333/problem/A
+
+Sorted Adjacent Differences: https://codeforces.com/contest/1339/problem/B
