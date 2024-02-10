@@ -55,3 +55,5 @@ Sorted Adjacent Differences: https://codeforces.com/contest/1339/problem/B
 Game with string: https://codeforces.com/contest/1104/problem/B
 
 Phoenix and Beauty: https://codeforces.com/contest/1348/problem/B
+
+J. Parallelograms: https://codeforces.com/gym/101755/problem/J
