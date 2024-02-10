@@ -53,3 +53,5 @@ Little Artem: https://codeforces.com/contest/1333/problem/A
 Sorted Adjacent Differences: https://codeforces.com/contest/1339/problem/B
 
 Game with string: https://codeforces.com/contest/1104/problem/B
+
+Phoenix and Beauty: https://codeforces.com/contest/1348/problem/B
