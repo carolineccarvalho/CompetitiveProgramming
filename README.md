@@ -57,3 +57,5 @@ Game with string: https://codeforces.com/contest/1104/problem/B
 Phoenix and Beauty: https://codeforces.com/contest/1348/problem/B
 
 J. Parallelograms: https://codeforces.com/gym/101755/problem/J
+
+Distância Entre Amigos: https://neps.academy/br/exercise/466
