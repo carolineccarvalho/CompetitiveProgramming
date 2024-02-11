@@ -28,6 +28,8 @@ CME: https://codeforces.com/contest/1241/problem/A
 
 Bad prices: https://codeforces.com/contest/1213/problem/B
 
+A. Rectangle Cutting: https://codeforces.com/contest/1928/problem/A
+
 <h3 align="center"> STL: </h3>
 
 Dijkstra: https://www.beecrowd.com.br/judge/pt/problems/view/2653
