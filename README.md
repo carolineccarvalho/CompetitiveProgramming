@@ -59,3 +59,6 @@ Phoenix and Beauty: https://codeforces.com/contest/1348/problem/B
 J. Parallelograms: https://codeforces.com/gym/101755/problem/J
 
 Distância Entre Amigos: https://neps.academy/br/exercise/466
+
+<h3 align="center"> Guloso: </h3>
+Estratégia Gulosa: https://neps.academy/br/exercise/244
