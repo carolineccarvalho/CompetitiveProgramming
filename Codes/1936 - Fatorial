@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    int fatorial[8] = {1,2,6,24,120,720,5040,40320};
+    int n,c=0;
+    scanf("%d",&n);
+    for(int i =7; i>=0;i--){
+        c+=n/fatorial[i];
+        n=n%fatorial[i];
+    }
+    printf("%d\n",c);
+
+    return 0;
+}
