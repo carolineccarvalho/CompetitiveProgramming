@@ -62,5 +62,7 @@ J. Parallelograms: https://codeforces.com/gym/101755/problem/J
 
 Distância Entre Amigos: https://neps.academy/br/exercise/466
 
+M - Make Cents?: https://codeforces.com/gym/101350/problem/M
+
 <h3 align="center"> Guloso: </h3>
 Estratégia Gulosa: https://neps.academy/br/exercise/244
