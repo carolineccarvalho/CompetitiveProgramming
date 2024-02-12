@@ -66,3 +66,5 @@ M - Make Cents?: https://codeforces.com/gym/101350/problem/M
 
 <h3 align="center"> Guloso: </h3>
 Estratégia Gulosa: https://neps.academy/br/exercise/244
+
+B. Jogo Kana e Dragon Quest: https://codeforces.com/contest/1337/problem/B
