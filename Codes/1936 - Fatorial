@@ -7,7 +7,7 @@ int main()
     scanf("%d",&n);
     for(int i =7; i>=0;i--){
         c+=n/fatorial[i];
-        n=n%fatorial[i];
+        n%=fatorial[i];
     }
     printf("%d\n",c);
 
