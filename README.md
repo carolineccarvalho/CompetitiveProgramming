@@ -71,3 +71,5 @@ Estratégia Gulosa: https://neps.academy/br/exercise/244
 Fatorial: https://judge.beecrowd.com/pt/problems/view/1936
 
 B. Jogo Kana e Dragon Quest: https://codeforces.com/contest/1337/problem/B
+
+A. Recovering a Small String: https://codeforces.com/contest/1931/problem/A
