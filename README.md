@@ -77,3 +77,5 @@ A. Recovering a Small String: https://codeforces.com/contest/1931/problem/A
 A. Phoenix and Balance: https://codeforces.com/contest/1348/problem/A
 
 A. Road To Zero: https://codeforces.com/contest/1342/problem/A
+
+B. Chat Order: https://codeforces.com/contest/637/problem/B
