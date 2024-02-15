@@ -79,3 +79,5 @@ A. Phoenix and Balance: https://codeforces.com/contest/1348/problem/A
 A. Road To Zero: https://codeforces.com/contest/1342/problem/A
 
 B. Chat Order: https://codeforces.com/contest/637/problem/B
+
+C. Alternating Subsequence: https://codeforces.com/contest/1343/problem/C
