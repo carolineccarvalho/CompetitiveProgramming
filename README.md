@@ -83,3 +83,5 @@ B. Chat Order: https://codeforces.com/contest/637/problem/B
 C. Alternating Subsequence: https://codeforces.com/contest/1343/problem/C
 
 B. Restaurant: https://codeforces.com/contest/597/problem/B
+
+Caverna de Ordinskaya: https://neps.academy/br/exercise/4
