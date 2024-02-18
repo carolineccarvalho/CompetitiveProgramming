@@ -85,3 +85,5 @@ C. Alternating Subsequence: https://codeforces.com/contest/1343/problem/C
 B. Restaurant: https://codeforces.com/contest/597/problem/B
 
 Caverna de Ordinskaya: https://neps.academy/br/exercise/4
+
+Minimo e máximo: https://neps.academy/br/exercise/1728
