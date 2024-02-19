@@ -87,3 +87,5 @@ B. Restaurant: https://codeforces.com/contest/597/problem/B
 Caverna de Ordinskaya: https://neps.academy/br/exercise/4
 
 Minimo e máximo: https://neps.academy/br/exercise/1728
+
+C. Platforms Jumping: https://codeforces.com/problemset/problem/1256/C
