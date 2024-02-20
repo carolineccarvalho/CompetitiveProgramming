@@ -84,9 +84,9 @@ B. Chat Order: https://codeforces.com/contest/637/problem/B
 
 C. Alternating Subsequence: https://codeforces.com/contest/1343/problem/C
 
-B. Restaurant: https://codeforces.com/contest/597/problem/B
+C. Platforms Jumping: https://codeforces.com/problemset/problem/1256/C
 
-B. Vlad and Shapes: https://codeforces.com/contest/1926/problem/B
+B. Restaurant: https://codeforces.com/contest/597/problem/B
 
 Caverna de Ordinskaya: https://neps.academy/br/exercise/4
 
@@ -94,4 +94,5 @@ Minimo e máximo: https://neps.academy/br/exercise/1728
 
 <h3 align="center"> String: </h3>
 
-C. Platforms Jumping: https://codeforces.com/problemset/problem/1256/C
+B. Vlad and Shapes: https://codeforces.com/contest/1926/problem/B
+
