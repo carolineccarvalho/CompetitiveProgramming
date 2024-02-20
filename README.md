@@ -92,6 +92,8 @@ Caverna de Ordinskaya: https://neps.academy/br/exercise/4
 
 Minimo e máximo: https://neps.academy/br/exercise/1728
 
+2449 - Fechadura: https://judge.beecrowd.com/pt/problems/view/2449
+
 <h3 align="center"> String: </h3>
 
 B. Vlad and Shapes: https://codeforces.com/contest/1926/problem/B
