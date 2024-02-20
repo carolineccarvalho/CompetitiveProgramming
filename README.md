@@ -98,3 +98,6 @@ Minimo e máximo: https://neps.academy/br/exercise/1728
 
 B. Vlad and Shapes: https://codeforces.com/contest/1926/problem/B
 
+<h3 align="center"> Busca binária: </h3>
+
+A. Binary Search: https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A
