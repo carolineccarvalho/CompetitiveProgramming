@@ -1,0 +1,33 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int contar(string entrada){
+    int aux=0;
+    for(int i =0; i<entrada.size(); i++){
+        if(entrada[i]=='1') {aux++;}
+    }
+    return aux;
+}
+
+int main()
+{
+    ios_base::sync_with_stdio(0);cin.tie(0);
+    int tests, palavras;
+    string entrada;
+    set<int> tamanhos;
+    cin>>tests;
+    for(int i=0; i<tests; i++){
+        cin >> palavras;
+        tamanhos.clear();
+        for(int j=0; j<palavras; j++){
+            cin>>entrada;
+            if(contar(entrada)>=1){
+                tamanhos.insert(contar(entrada));
+                }
+        }
+
+        if(tamanhos.size()>1) cout << "TRIANGLE" << endl;
+        else cout << "SQUARE" << endl;
+    }
+}
