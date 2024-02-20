@@ -104,3 +104,4 @@ A. Binary Search: https://codeforces.com/edu/course/2/lesson/6/1/practice/contes
 
 B. Closest to the Left: https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B
 
+C. Closest to the Right: https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C
