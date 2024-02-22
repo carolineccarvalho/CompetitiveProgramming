@@ -111,3 +111,5 @@ D. Fast search: https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/
 A. Packing Rectangles: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A
 
 B. Ropes: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B
+
+C. Very Easy Task: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C
