@@ -119,3 +119,5 @@ C. Very Easy Task: https://codeforces.com/edu/course/2/lesson/6/2/practice/conte
 C. Can I Square?: https://codeforces.com/problemset/problem/1915/C
 
 1566A - Median Maximization: https://codeforces.com/problemset/problem/1566/A
+
+A. Gamer Hemose: https://codeforces.com/problemset/problem/1592/A
