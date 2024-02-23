@@ -1,0 +1,35 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+   long long t, n, a, aux;
+   cin >> t;
+   for(int i =0; i <t; i++){
+        cin >> n;
+        a = 0;
+        for(int j = 0; j<n; j++){
+            cin >> aux;
+            a+=aux;
+        }
+
+        long long l = 0;
+        long long r = a;
+        bool par = false;
+        while(l <= r){
+            long long mid = l + (r-l)/2;
+            if(pow(mid,2) == a){
+                cout << "YES\n";
+                par = true;
+                break;
+            }else if(pow(mid,2) < a){
+                l = mid+1;
+            }else{
+                r = mid-1;
+            }
+        }
+
+        if(!par) cout << "NO\n";
+   }
+}
