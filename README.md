@@ -113,3 +113,5 @@ A. Packing Rectangles: https://codeforces.com/edu/course/2/lesson/6/2/practice/c
 B. Ropes: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B
 
 C. Very Easy Task: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C
+
+750A - New Year and Hurry: https://codeforces.com/problemset/problem/750/A
