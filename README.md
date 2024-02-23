@@ -117,3 +117,5 @@ C. Very Easy Task: https://codeforces.com/edu/course/2/lesson/6/2/practice/conte
 750A - New Year and Hurry: https://codeforces.com/problemset/problem/750/A
 
 C. Can I Square?: https://codeforces.com/problemset/problem/1915/C
+
+1566A - Median Maximization: https://codeforces.com/problemset/problem/1566/A
