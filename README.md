@@ -121,3 +121,5 @@ C. Can I Square?: https://codeforces.com/problemset/problem/1915/C
 1566A - Median Maximization: https://codeforces.com/problemset/problem/1566/A
 
 A. Gamer Hemose: https://codeforces.com/problemset/problem/1592/A
+
+A. Sushi for Two: https://codeforces.com/problemset/problem/1138/A
