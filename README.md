@@ -125,3 +125,5 @@ A. Gamer Hemose: https://codeforces.com/problemset/problem/1592/A
 A. Sushi for Two: https://codeforces.com/problemset/problem/1138/A
 
 A. K-divisible Sum: https://codeforces.com/problemset/problem/1476/A
+
+C. K-th Not Divisible by n: https://codeforces.com/contest/1352/problem/C
