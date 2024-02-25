@@ -131,3 +131,5 @@ C. K-th Not Divisible by n: https://codeforces.com/contest/1352/problem/C
 B. Different Divisors: https://codeforces.com/problemset/problem/1474/B
 
 C. Frog Jumps: https://codeforces.com/contest/1324/problem/C
+
+B. Interesting drink: https://codeforces.com/problemset/problem/706/B
