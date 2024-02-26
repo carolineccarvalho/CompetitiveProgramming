@@ -133,3 +133,5 @@ B. Different Divisors: https://codeforces.com/problemset/problem/1474/B
 C. Frog Jumps: https://codeforces.com/contest/1324/problem/C
 
 B. Interesting drink: https://codeforces.com/problemset/problem/706/B
+
+D. Children Holiday: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/D
