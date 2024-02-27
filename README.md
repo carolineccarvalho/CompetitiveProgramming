@@ -26,6 +26,8 @@ Add Odd or Subtract Even: https://codeforces.com/contest/1311/problem/A
 
 CME: https://codeforces.com/contest/1241/problem/A
 
+B. Team Composition: Programmers and Mathematicians: https://codeforces.com/problemset/problem/1611/B
+
 Bad prices: https://codeforces.com/contest/1213/problem/B
 
 A. Rectangle Cutting: https://codeforces.com/contest/1928/problem/A
