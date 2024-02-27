@@ -26,8 +26,6 @@ Add Odd or Subtract Even: https://codeforces.com/contest/1311/problem/A
 
 CME: https://codeforces.com/contest/1241/problem/A
 
-B. Team Composition: Programmers and Mathematicians: https://codeforces.com/problemset/problem/1611/B
-
 Bad prices: https://codeforces.com/contest/1213/problem/B
 
 A. Rectangle Cutting: https://codeforces.com/contest/1928/problem/A
@@ -139,3 +137,5 @@ B. Interesting drink: https://codeforces.com/problemset/problem/706/B
 D. Children Holiday: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/D
 
 2973 - Maratona Brasileira de Comedores de Pipoca: https://judge.beecrowd.com/pt/problems/view/2973
+
+B. Team Composition: Programmers and Mathematicians: https://codeforces.com/problemset/problem/1611/B
