@@ -139,3 +139,5 @@ D. Children Holiday: https://codeforces.com/edu/course/2/lesson/6/2/practice/con
 2973 - Maratona Brasileira de Comedores de Pipoca: https://judge.beecrowd.com/pt/problems/view/2973
 
 B. Team Composition: Programmers and Mathematicians: https://codeforces.com/problemset/problem/1611/B
+
+C. Make It Good: https://codeforces.com/contest/1385/problem/C
