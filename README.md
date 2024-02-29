@@ -141,3 +141,5 @@ D. Children Holiday: https://codeforces.com/edu/course/2/lesson/6/2/practice/con
 B. Team Composition: Programmers and Mathematicians: https://codeforces.com/problemset/problem/1611/B
 
 C. Make It Good: https://codeforces.com/contest/1385/problem/C
+
+F. String Game: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/F
