@@ -149,3 +149,7 @@ F. String Game: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/
 C. Letters: https://codeforces.com/problemset/problem/978/C
 
 E. Equation: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/E
+
+<h3 align="center"> Dois ponteiros: </h3>
+
+A. Favorite Sequence: https://codeforces.com/problemset/problem/1462/A
