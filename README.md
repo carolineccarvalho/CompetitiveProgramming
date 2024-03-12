@@ -160,3 +160,5 @@ A. Favorite Sequence: https://codeforces.com/problemset/problem/1462/A
 Aeroporto: https://neps.academy/br/exercise/290
 
 Costa: https://neps.academy/br/exercise/329
+
+E. Cyclic Components: https://codeforces.com/contest/977/problem/E
