@@ -2,7 +2,7 @@
 
 using namespace std;
 
-vector<set<int>> adj;
+vector<vector<int>> adj;
 vector<int> color;
 vector<bool> visited;
 vector<int> ans;
@@ -25,6 +25,7 @@ bool eh_ciclo(int v){
 
 void dfs(int v){
     visited[v] = true;
+    sort(adj[v].begin(), adj[v].end(), greater<int>());
     for(auto w: adj[v]){
         if(!visited[w]){
             dfs(w);
@@ -54,22 +55,18 @@ int main()
     color.resize(n);
     color.assign(n, 0);
 
-
-
     for(int i =0; i<m; i++){
         cin >> x >> y;
         x--;y--;
-        adj[x].insert(y);
+        adj[x].push_back(y);
     }
 
     for(int i=0; i<n; i++){
         if(color[i] == 0 && eh_ciclo(i)){
-            cout << i << endl;
             cout << "Sandro fails." << endl;
             return 0;
         }
     }
-
 
     toposort();
 
