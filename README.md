@@ -165,8 +165,10 @@ E. Cyclic Components: https://codeforces.com/contest/977/problem/E
 
 I - It's the Police: https://codeforces.com/gym/101149/problem/I
 
-Mapa (OBI 2017): https://neps.academy/br/exercise/26
+Mapa: https://neps.academy/br/exercise/26
 
 Topological Sorting: https://www.spoj.com/problems/TOPOSORT/
 
-10305 - Ordering Tasks: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1246
+Ordering Tasks: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1246
+
+Submerging Islands: https://www.spoj.com/problems/SUBMERGE/
