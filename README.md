@@ -172,3 +172,5 @@ Topological Sorting: https://www.spoj.com/problems/TOPOSORT/
 Ordering Tasks: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1246
 
 Submerging Islands: https://www.spoj.com/problems/SUBMERGE/
+
+D. Pants On Fire: https://codeforces.com/gym/101873/problem/D
