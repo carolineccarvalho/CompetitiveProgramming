@@ -174,3 +174,6 @@ Ordering Tasks: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=
 Submerging Islands: https://www.spoj.com/problems/SUBMERGE/
 
 D. Pants On Fire: https://codeforces.com/gym/101873/problem/D
+
+GOODA - Good Travels: https://www.spoj.com/problems/GOODA/
+
