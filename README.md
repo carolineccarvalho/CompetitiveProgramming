@@ -180,3 +180,5 @@ GOODA - Good Travels: https://www.spoj.com/problems/GOODA/
 E. The Road to Berland is Paved With Good Intentions: https://codeforces.com/contest/228/problem/E
 
 D. The Door Problem: https://codeforces.com/contest/776/problem/D
+
+Giant Pizza: https://cses.fi/problemset/task/1684/
