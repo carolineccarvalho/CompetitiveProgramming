@@ -182,3 +182,8 @@ E. The Road to Berland is Paved With Good Intentions: https://codeforces.com/con
 D. The Door Problem: https://codeforces.com/contest/776/problem/D
 
 Giant Pizza: https://cses.fi/problemset/task/1684/
+
+
+<h3 align="center"> BFS: </h3>
+
+AKBAR - Akbar , The great: https://www.spoj.com/problems/AKBAR/
