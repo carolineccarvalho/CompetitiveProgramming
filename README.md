@@ -187,3 +187,7 @@ Giant Pizza: https://cses.fi/problemset/task/1684/
 <h3 align="center"> BFS: </h3>
 
 AKBAR - Akbar , The great: https://www.spoj.com/problems/AKBAR/
+
+
+<h3 align="center"> Dijkstra: </h3>
+EZDIJKST - Easy Dijkstra Problem: https://www.spoj.com/problems/EZDIJKST/
