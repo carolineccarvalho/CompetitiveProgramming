@@ -154,6 +154,8 @@ E. Equation: https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283
 
 A. Favorite Sequence: https://codeforces.com/problemset/problem/1462/A
 
+Escher: https://neps.academy/br/exercise/892
+
 
 <h3 align="center"> Grafos e DFS: </h3>
 
