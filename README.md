@@ -205,3 +205,7 @@ F. Didi e a Busca pelo Sorvete: https://codeforces.com/group/xR6OpxQBMc/contest/
 <h3 align="center"> Bellman-Ford: </h3>
 
 Ford-Bellman: https://www.eolymp.com/en/problems/1453
+
+<h3 align="center"> Ordenação: </h3>
+
+https://neps.academy/br/exercise/246
