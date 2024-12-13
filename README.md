@@ -32,6 +32,8 @@ A. Rectangle Cutting: https://codeforces.com/contest/1928/problem/A
 
 A. Vlad and the Best of Five: https://codeforces.com/contest/1926/problem/A
 
+A. Line Breaks: https://codeforces.com/contest/2050/problem/A
+
 <h3 align="center"> STL: </h3>
 
 Dijkstra: https://www.beecrowd.com.br/judge/pt/problems/view/2653
