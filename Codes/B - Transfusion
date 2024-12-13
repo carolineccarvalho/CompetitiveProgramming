@@ -1,0 +1,41 @@
+#include <iostream>
+#include <vector>
+#include <algorithm> 
+
+using namespace std;
+
+
+int main() {
+    int t; cin >> t;
+    for(int i=0; i<t; i++){
+        int n; cin >> n;
+        vector<long long> a(n);
+        long long sum = 0;
+        for(int j=0; j<n; j++){
+            cin >> a[j];
+            sum += a[j];
+        }
+
+        long long div = sum/n;
+        if(sum%n){
+            cout << "NO" << endl;
+            continue;
+
+        }
+        for(int j=1; j<n-1; j++){
+            a[j+1] += -div + a[j-1];
+            a[j-1] += div - a[j-1];
+        }
+        bool aux = true;
+        for(int j=0; j<n; j++){
+            if(a[j]!=div){
+                aux = false;
+            }
+        }
+
+        if(aux) cout << "YES" << endl;
+        else cout << "NO" << endl;
+    } 
+    return 0;
+}
+ 
